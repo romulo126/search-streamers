@@ -11,4 +11,4 @@ Steamers disponiveis no momento:
 2 - Prime Video
 3 - Crunchy Roll
 
-### chromewebstore](https://chromewebstore.google.com/detail/streamers-search-extensio/nblbhgmfakmlgofpeagnipplfhoondcb?authuser=2&hl=pt-BR)
+### [chromewebstore](https://chromewebstore.google.com/detail/streamers-search-extensio/nblbhgmfakmlgofpeagnipplfhoondcb?authuser=2&hl=pt-BR)
