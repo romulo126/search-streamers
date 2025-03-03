@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "Streamers Search Extension",
+    "version": "1.0.1",
+    "description": "Extensão que permite buscar em diversos sites de streamers de filmes ao mesmo tempo.",
+    "permissions": [
+      "cookies",
+      "storage",
+      "tabs"
+    ],
+    "host_permissions": [
+      "*://*.primevideo.com/",
+      "*://*.amazon.com/",
+      "*://*.crunchyroll.com/",
+      "*://*.max.com/"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_title": "Busca de Streamers",
+      "default_icon": {
+        "16": "icon.jpg",
+        "48": "icon.jpg",
+        "128": "icon.jpg"
+      }
+    }
+  }
+  
